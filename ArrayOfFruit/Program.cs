@@ -8,6 +8,9 @@ namespace ArrayOfFruit
 {
     class Program
     {
+        /// <summary>
+        /// Fruit Array
+        /// </summary>
         public enum Fruit
         {
             none,
